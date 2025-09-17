@@ -1,4 +1,6 @@
 # 👋 Welcome to My Site
+![My Logo](logo.png)
+
 
 Hi, I'm **Gokul Hari** 🚀  
 Cloud Solution Architect | AWS Enthusiast  

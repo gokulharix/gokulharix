@@ -1,6 +1,6 @@
 # 👋 Welcome to My Site
 
-<a href="https://gokulharix.github.io/">
+<a href="https://gokulharix.github.io/gokulharix/">
   <img src="https://github.com/user-attachments/assets/92e06778-a3c1-49cd-95c3-9750e638aaa9" alt="My Logo" width="150">
 </a>
 
